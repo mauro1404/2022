@@ -1,8 +1,8 @@
 #################################################
 # hw0.py
 #
-# Nombre:
-# DNI:
+# Nombre: Mauro Rolon
+# DNI:35136122
 #################################################
 
 #################################################
@@ -12,7 +12,7 @@
 def hello_world():
 # Modificar este código para que devuelva el string "Hello World!"
     
-    return 1
+    return "Hello World!"
 
 #################################################
 # Funciones de Test (no modificar)
