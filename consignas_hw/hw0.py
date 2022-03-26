@@ -20,7 +20,7 @@ def hello_world():
 
 def test_hello():
     print('Testeando testHelloWorld()... ', end='')
-    assert hello_world() == "Hello World!"
+    assert hello_world() == "Hello World!"ghbg
     print('Pasó!')
 
 #################################################
